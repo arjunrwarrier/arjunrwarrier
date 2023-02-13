@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arjun R Warrier
-- 👀 I’m interested in Machine Learning, AI , Data and Python..
-- 🌱 I’m currently training on Data Engineering 
+- 👀 I’m interested in Java, Angular, Data and AI.
+- 🌱 I’m currently working on Java Spring microservice, Angular for frontend, and Docker/Kubernetes.
 - 📫 Connect with me on LinkedIn.
 
 <!---

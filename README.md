@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arjun R Warrier
-- 👀 I’m interested in Java, Angular, Data and AI.
-- 🌱 I’m currently working on Java Spring microservice, Angular for frontend, and Docker/Kubernetes.
+- 👀 I’m interested in Web Development, Data and AI.
+- 🌱 I’m currently working on Java Springboot microservice, Angular for frontend, MongoDB for database and Docker/Kubernetes.
 - 📫 Connect with me on LinkedIn.
 
 <!---

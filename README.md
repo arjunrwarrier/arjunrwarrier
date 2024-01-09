@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Arjun R Warrier
   
-Welcome to my GitHub portfolio! ,I'm a software engineer with a background in backend development, microservices architecture, and machine learning integration. I'm currently working at NeST Digital and also consulting for GE Healthcare. Here's a snapshot of my professional journey and the projects I've worked on:
-
-## NeST Digital (Current)
-
-At NeST Digital, I've had the privilege of contributing to projects that have enriched my skills and experience:
+Welcome to my GitHub portfolio! ,I'm a software engineer with a background in backend development, microservices architecture, and machine learning integration. Here's a snapshot of my professional journey and the projects I've worked on:                                                                                                                                                
 
 ### Backend Development
 
@@ -18,10 +14,6 @@ At NeST Digital, I've had the privilege of contributing to projects that have en
 
 - Leveraged Angular within a Single-SPA micro-front-end architecture to craft responsive and user-friendly web interfaces, enhancing the overall user experience.
 
-## GE Healthcare (Current)
-
-As a consultant software engineer at GE Healthcare, I've been involved in projects that focus on real-time data processing and machine learning integration:
-
 ### Real-Time Data Processing
 
 - Implemented real-time data processing using Apache Flink, enabling the company to derive valuable insights from streaming data sources.
@@ -31,7 +23,6 @@ As a consultant software engineer at GE Healthcare, I've been involved in projec
 
 - Integrated Flask to load ML Models using TensorFlow Lite, effectively reducing load times.
 - Incorporated tflite-runtime to reduce the Docker image size of the Flask application, thereby enhancing performance and image usability.
-- Developed and implemented Hazelcast Cache for facilitating data exchange between two Flink datastreams in Java.
 
 ## Contact
 
